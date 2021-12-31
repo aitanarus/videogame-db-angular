@@ -1,5 +1,15 @@
 # VideoGameDb
 
+
+
+Demo: https://angular-video-game-db.web.app/ <br />
+
+Hosting: Firebase <br />
+API: https://rapidapi.com/accujazz/api/rawg-video-games-database/details
+
+<br />
+<br />
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
